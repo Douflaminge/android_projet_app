@@ -2,3 +2,5 @@
 2. Installez le logiciel de studio Android
 3. Configurez l'environnement de flutter dans Android Studio
 4. Selon le tutoriel, fait deux applications Android
+
+Il y a quatre images sur APP dans le dossier img
